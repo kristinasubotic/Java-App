@@ -9,7 +9,7 @@ import Namirnica.*;
 
 public class Program {
 	public static void main(String[] args) {
-		/*
+		
 		Meso kobasica = new Meso("Kobasica",100,true);
 		Meso sunka = new Meso("sunka",180,false);
 		
@@ -54,7 +54,7 @@ public class Program {
 
 		//
 		//zelena.setCena(0);
-*/
+
 		Meso daLiMozeOvo = new Meso("naziv", -666, true);
 		System.out.println(daLiMozeOvo);
 
